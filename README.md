@@ -1,10 +1,11 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name: ASHWINA K N </h3>
 <h3>Register Number: 212223230025</h3>
+
 <H3>Aim:</H3>
 <p>To Implement A * Search algorithm for a Graph using Python 3.</p>
-<H3>Algorithm:</H3>
 
+<H3>Algorithm:</H3>
 ``````
 // A* Search Algorithm
 1.  Initialize the open list
